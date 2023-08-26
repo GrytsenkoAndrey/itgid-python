@@ -6,5 +6,6 @@ b = 9.3
 
 # write your code under this line
 
-
+c = a * b
+print(c)
 

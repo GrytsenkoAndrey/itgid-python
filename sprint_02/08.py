@@ -6,3 +6,5 @@ e = 128
 
 # write your code under this line
 
+f = d / e
+print(f)

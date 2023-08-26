@@ -6,6 +6,6 @@ b = 9
 
 # write your code under this line
 
-
-
-
+c = a * b
+d = c + a
+print(d)

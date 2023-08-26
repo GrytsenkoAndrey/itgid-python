@@ -5,3 +5,6 @@ a = 3.2
 b = 9.3
 
 # write your code under this line
+c = a * b
+print(c)
+print(type(c))
