@@ -4,4 +4,6 @@
 a = 256
 
 # write your code under this line
+b = 256**.5
+print(b)
 

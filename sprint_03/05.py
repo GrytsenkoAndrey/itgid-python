@@ -6,4 +6,5 @@ b = 'best'
 c = 'game'
 
 # write your code under this line
-
+d = a + ' ' + b + ' ' + c
+print(d)

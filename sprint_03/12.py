@@ -5,3 +5,6 @@
 a = 7
 
 # write your code under this line
+b = a % 4
+print(b)
+

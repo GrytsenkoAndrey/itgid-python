@@ -7,5 +7,5 @@ a = "полый"
 b = "полон"
 
 # write your code under this line
-
+print('Он {}...Он без дна...без конца...и...o Боже, он {} звезд!'.format(a, b))
 

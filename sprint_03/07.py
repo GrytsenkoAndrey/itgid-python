@@ -6,5 +6,6 @@ a = 'homealone'
 b = 'best'
 
 # write your code under this line
-
-
+c = len(a) + len(b)
+print(type(c))
+print(c)

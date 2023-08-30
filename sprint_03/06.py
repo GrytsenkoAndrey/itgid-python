@@ -8,5 +8,7 @@ b = 'best'
 
 # write your code under this line
 
-
+c = str(a) + b
+print(c)
+print(type(c))
 
