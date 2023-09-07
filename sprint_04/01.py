@@ -5,5 +5,7 @@
 a = 901
 b = 10
 
-#def f01 (x, y) :
+def f01 (x, y) :
+    return x + y
 
+print(f01(a, b))

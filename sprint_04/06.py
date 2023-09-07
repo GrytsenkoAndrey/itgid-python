@@ -6,5 +6,7 @@ import random
 
 a = 99
 
-# def f06() :
+def f06() :
+    return a
 
+print(f06())

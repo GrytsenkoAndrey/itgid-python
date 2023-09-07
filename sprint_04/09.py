@@ -11,5 +11,5 @@ def f09() :
     global a
     return a
 
-# print(f09())
-# print(a)
+print(f09())
+print(a)

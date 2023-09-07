@@ -7,5 +7,7 @@ import random
 a = 99
 b = 1
 
-# def f10() :
+def f10() :
+    return a + b
 
+print(f10())
